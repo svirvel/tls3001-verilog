@@ -1,0 +1,13 @@
+# Clock
+set_io CLK_IN   21   # 12 MHz clock
+
+# LEDs
+set_io LED1     99  # red
+set_io LED2     98  # red
+set_io LED3     97  # red
+set_io LED4     96  # red
+set_io LED5     95  # green
+
+# J3
+set_io J3_3     62
+set_io J3_4     61
